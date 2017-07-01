@@ -102,7 +102,8 @@ Mango: A useful DICOM viewer for Windows users.
 <img src="https://github.com/alerazabhatti/ImproveLungCancerDetection/blob/master/img/accuracy.png">
 
 
-
+<h2>References</h2>
+<p>https://www.kaggle.com/sentdex/first-pass-through-data-w-3d-convnet</p>
 
 
 
